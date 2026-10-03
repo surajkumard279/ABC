@@ -1,0 +1,7 @@
+{
+  "name": "ABC Toddler Paint: A–Z Alphabet Colouring & Phonics",
+  "description": "A colourful, fun, interactive A–Z Capital Alphabet Learning & Colouring Android App for preschool and kindergarten children (ages 2–6).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
